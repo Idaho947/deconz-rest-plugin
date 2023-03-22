@@ -1,6 +1,6 @@
 {
   "schema": "devcap1.schema.json",
-  "manufacturername": ["Develco Products A/S", "frient A/S"],
+  "manufacturername": ["Develco Products A/S", "frient A/S", "Develco"],
   "modelid": ["ZHEMI101", "ZHEMI101"],
   "vendor": "Develco products",
   "product": "External meter interface ZHEMI101",
